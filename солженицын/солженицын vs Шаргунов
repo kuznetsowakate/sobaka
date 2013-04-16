@@ -1,0 +1,259 @@
+<div style="height:180px; width:600px;">
+<div style="display:inline-block; width:100px; text-align:center; position:relative; left:177px; top:14px;"><img src="../../system/inline_image/image/00/00/93/07/base_solzh.png" alt="" />
+<p style="font-family: 'pf_din_text_comp_proregular'; font-size: 21px; color: #000; display: inline; position: relative; top:6px; line-height:1.1em;">Александр<br />
+Солженицын</p></div>
+
+<span style="font-family: 'pf_din_text_comp_proregular'; font-size: 16px; color: #97b0b8; position:relative; top:-73px; left:230px;">VS</span>
+
+<div style="display:inline-block; width:100px;text-align:center; position:relative; left:276px; top:16px;" name="Shargunov"><img src="../../system/inline_image/image/00/00/93/84/base_shargunov.png" alt="" />
+<p style="font-family: 'pf_din_text_comp_proregular'; font-size: 21px; color: #000; display: inline; position: relative; line-height:1.1em;left:9px; top:5px;">Сергей Шаргунов</p></div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+		body{font-family:Arial; font-size:12px;}
+		
+                 
+		.b { margin:0; padding:0; }
+		.b-cnt { position:relative; overflow:hidden; width:600px; height:1710px;}
+
+		.b-left { position:relative; top:0; width:330px; float:left; }
+		.b-left .source { padding:8px; position:relative; text-align:right;}
+		.b-left .source:nth-child(odd) { color:#000; background:#e7edef;  }
+		.b-left p.head { width:120px;height:100%;position:absolute; font-family: 'pf_din_text_comp_proregular'; font-size:16px; text-transform:uppercase; display:inline; top:27px; right:223px; letter-spacing:1px; line-height:1.2em;}
+		.b-left p.solzh{ width:215px; margin:0; margin-left:120px;  margin-top:5px;font-family:Arial, serif; font-size:12px; text-align:left; line-height:1.3em;}
+
+
+		.b-sep { width:30px; min-height:100%; float:left; }
+		.b-sep__item { position:absolute; width:40px; }
+		.b-sep__item .top, .b-sep__item .bottom { width:100%; display:block; position:relative; }
+		.b-sep__item div { width:100%; background:#e7edef; position:relative;  }
+
+
+		.b-right { position:relative; top:0; float:left; width:240px; }
+         .b-right p{margin:0; font-family:Arial, serif; font-size:12px; line-height:1.3em; margin-left:1px;}
+		.b-right .writer { padding:8px; }
+		.b-right .writer:nth-child(odd) { color:#000; background:#e7edef; }
+ 	
+ 	</style>
+
+<div class="b-cnt">
+		<div class="b-left">
+			<!--
+				тут исходный писатель, его можно забивать руками, главное - проставить классы 
+				source - класс для оформления, можно забить любой
+			-->
+			<div class="source src-0" style="height:175px;">
+			
+			<p class="head">Тюрьма</p>
+			
+			<p class="solzh">В 1945 году приговорен к восьми<br> годам исправительно-трудовых<br> лагерей по 58-й статье за критику<br> Сталина в переписке с армейским<br> товарищем. Сидел в Подмосковье<br> и Казахстане. В 1953 году<br> отправлен в вечную ссылку,<br> лечился в ташкентской тюремной<br> больнице от рака. Освобожден <br>
+			в июне 1956-го, в следующем году<br> реабилитирован.</p>
+			
+			</div>
+			<div class="source src-1" style="height:175px;">
+			
+			<p class="head">Борьба<br> с режимом</p>
+			
+			<p class="solzh">В КГБ на рубеже 1960–1970-х <br>чрезмерно говорливым<br> Солженицыным занимался целый<br> 9-й отдел 5-го управления.<br> Созданный писателем уже в<br> эмиграции Русский общественный<br> фонд помощи преследуемым и их<br>семьям помогал политзаключен-<br>
+			ным в СССР, отправляя легально <br>
+			и нелегально посылки и денежные<br> переводы.</p>
+						
+			</div>
+			<div class="source src-2" style="height: 85px;">
+			
+			<p class="head">Проживание<br> за границей</p>
+			
+			<p class="solzh"><b>Обвинен в измене Родине и <br>выслан из СССР в 1974 году.</b> <br>
+			Жил сначала в Цюрихе, затем в<br> американском штате Вермонт.<br> Вернулся в 1994-м.</p>
+			
+			</div>
+			<div class="source src-3" style="height:295px;">
+			
+			<p class="head">Флирт<br> с политиками</p>
+			
+			<p class="solzh" style="
+    margin-top: 3px;
+">За «Один день Ивана <br>Денисовича», напечатанный<br> благодаря поддержке Хрущева,<br> Солженицына приняли в Союз<br> писателей, а его повесть<br> выдвинули на соискание<br> Ленинской премии. После<br> возвращения получил в подарок <br>
+			от Ельцина госдачу «Сосновка-2»<br> — огромное поместье на берегу<br> Москвы-реки, но позже отказался<br> от ордена Андрея Первозванного:<br> «От верховной власти, доведшей<br> Россию до нынешнего гибельного<br> состояния, я принять награду не<br> могу». Под конец жизни негативно<br> отзывался о продвижении НАТО <br>
+			на Восток и позитивно<br> 
+			о президенте Путине.</p>
+			
+			</div>
+			<div class="source src-4" style="height: 99px;">
+			<p class="head" style="
+    margin-top: -3px;
+">Интерес<br> к истории</p>
+			
+			<p class="solzh" style="
+    margin-top: 3px;
+">Исследовал в «Архипелаге ГУЛАГ»<br> историю сталинских репрессий,<br> 
+			а в многотомном романе-эпопее<br> «Красное колесо» — России с<br> начала Первой мировой войны <br>
+			и до Октябрьской революции.</p>
+			</div>
+			
+			<div class="source src-5" style="height: 55px;">
+			
+			<p class="head" style="
+    margin-top: -13px;
+">Пересмотр<br> истории</p>
+			
+			<p class="solzh" style="
+    margin-top: 3px;
+">В «Красном колесе» популяризи-<br> 
+			ровал образ Ленина — немецкого<br>  шпиона.</p>
+			
+			</div>
+			
+			<div class="source src-6" style="height: 203px;">
+			
+			<p class="head" style="
+    margin-top: -4px;
+">Большая<br>премия</p>
+			
+			<p class="solzh" style="
+    margin-top: 2px;
+"><b>Нобелевская премия по<br> литературе</b> «за нравственную<br> силу, с которой он следовал<br> непреложным традициям русской<br> литературы» (1970) и Государст-<br>
+			венная премия РСФСР за<br> «Архипелаг ГУЛАГ» (1990).<br> 
+			В 1998 году писатель учредил<br> собственную литературную<br> премию, лауреатами которой<br> становились Валентин Распутин,<br> Владимир Бортко, Виктор<br> Астафьев и другие.</p>
+			
+			</div>
+			<div class="source src-7" style="height: 69px;">
+			
+			<p class="head" style="
+    margin-top: -2px;
+">Цитата</p>
+			
+			<p class="solzh"><b>«Милосердная к мужчинам, <br>война унесла их. А женщин<br> оставила домучиваться»</b><br> (Раковый корпус).</p>
+			
+			</div>
+			<div class="source src-8" style="height:98px;">
+			
+			<p class="head" style="
+    margin-top: -3px;
+">Борода</p>
+			
+			<p class="solzh" style="
+    margin-top: 3px;
+">Длинная, крестьянская, <br>придающая ему сходство со Львом<br> Толстым, не только «зеркалом<br> русской революции», но и<br> родоначальником всех наших<br> писателей-почвенников.</p>
+			
+			</div>
+			<div class="source src-9" style="height:130px;">
+			
+			<p class="head">Скверный<br> характер</p>
+			
+			<p class="solzh">И в России, и в США писатель<br> предпочитал жить угрюмо и<br> изолированно за высоким забором.<br> Посетивший его в штате Вермонт<br> фотограф Time отметил в<br> комментарии к снимку, что это<br> была не самая приятная в<br> общении фотомодель.</p>
+			
+			</div>
+			<div class="source src-10" style="height:143px;">
+			
+			<p class="head" style="
+    margin-top: -3px;
+">Соответствие<br> критерию</p>
+			
+			<p class="solzh" style="
+    margin-top: 3px;
+">Сегодня уже и сам Солженицын<br>
+			не смог бы состязаться с самим<br> собой — одним из главных<br> интеллигентских авторитетов<br> 1970-х. Вернувшись в пост-<br>
+			перестроечную Россию с само-<br> ощущением мессии, он обнаружил,<br> что принимают его больше за<br> чудака-оригинала.</p>
+			
+			</div>
+			
+		</div>
+
+		<div class="b-sep">
+
+<img name="Prilepin" style="margin:0; display:none;" src="../../system/inline_image/image/00/00/92/78/base_sep1.png" alt="">
+<img name="Kantor" style="margin:0;display:none;" src="../../system/inline_image/image/00/00/93/11/base_sepKantor.png" alt="">
+<img name="Kantor" style="margin:-1px 0 0 0; display:none; " src="../../system/inline_image/image/00/00/93/21/base_sepProchanov.png" alt="">
+<img name="Akunin" style="margin:-1px 0 0 0; width:30px; height:1704px; display:none;" src="../../system/inline_image/image/00/00/93/30/base_sepAkunin.png" alt="">
+<img name="Bikov" style="margin:-1px 0 0 0; width:30px; display:none;" src="../../system/inline_image/image/00/00/93/37/base_sepBikov.png" alt="">
+<img name="Ulizkaya" style="margin:-1px 0 0 0; width:30px; height:1704px; display:none;" src="../../system/inline_image/image/00/00/93/77/base_sepUlizkaya.png" alt="">
+<img name="Shishkin" style="margin:-1px 0 0 0; width:30px; height:1705px; display:none;" src="../../system/inline_image/image/00/00/93/80/base_sepShishkin.png" alt="">
+<img name="Sadulaev" style="margin:-1px 0 0 0; width:30px; height:1705px; display:none;" src="../../system/inline_image/image/00/00/93/83/base_sepSadulaev.png" alt="">
+
+<img name="Shargunov" style="margin:-1px 0 0 0; width:30px; height:1704px; " src="../../system/inline_image/image/00/00/93/87/base_sepShargunov.png" alt="">
+
+
+</div>
+
+<div class="b-right" id="Shargunov" style="display:none;">
+			<div class="writer wrt-0" style="height: 85px;"><p style="
+    margin-top: 14px;
+">Нет. Ему там явно </br>
+будет скучно.</p></div>
+			
+			<div class="writer wrt-1" style="height:120px;"><p style="margin-top:9px;">В 2001-м отдал денежную часть</br> премии «Дебют» за повесть<br /> «Малыш наказан» Лимонову,<br /> сидевшему в тюрьме. Публично <br />выступал в поддержку Pussy Riot.</p>
+</div>
+			
+			<div class="writer wrt-2" style="height:87px;"><p style="
+    margin-top: 14px;
+">Бывал там лишь в порядке <br />журналистских командировок.</p></div>
+			
+			<div class="writer wrt-3" style="height: 297px;">
+
+<p style="margin-top:11px;"><b>В 1998 году вступил в <br />Национал-большевистскую<br /> партию.</b> В начале 2000-х, учась <br />
+в вузе, был помощником<br /> депутата Госдумы Татьяны <br />Астраханкиной, а потом депутата <br />от партии «Яблоко» Юрия <br />Щекочихина. В 2005-м вошел <br />
+в политсовет партии «Родина» <br />
+и стал главой молодежного союза<br /> «За Родину!». В 2007-м вошел <br />
+в первую тройку кандидатов<br /> «Справедливой России» для <br />участия в выборах в Госдуму, <br />
+но вскоре был исключен оттуда.<br /><b> Позже называл себя <br />беспартийным.</b></p></div>
+			
+			<div class="writer wrt-4" style="height: 75px;"><p style="
+    margin-top: 10px;
+">В качестве репортера <br />
+побывал и на митингах  <br />
+в Москве, и на войне в Осетии.</p></div>
+			
+			<div class="writer wrt-5" style="height:101px;">
+
+<p style="margin-top: 9px;">В повести «Птичий грипп» <br />поработал с молодежными<br /> политическими движениями,<br /> собрав галерею разнообразных <br />шаржей.</p></div>
+			
+			<div class="writer wrt-6" style="height:57px;"><p style="
+    margin-top: 12px;
+"><b>«Дебют»</b> — за повесть <br />
+«Малыш наказан» (2001).</p></div>
+			
+			<div class="writer wrt-7" style="height:211px;"><p style="
+    margin-top: 12px;
+"><b>«„Кто ближний мой?“ — <br />повторив этот евангельский <br />вопрос, я сам себе и отвечаю:<br /> „Самый дальний“. Кто дальше<br /> — тот ближе. Хочется верить <br />первым встречным, которым<br /> ничего от меня вообще не <br />надо. Все мне кажется, что<br /> простой и случайный человек<br /> может что-то очень важное<br /> открыть»</b><br />
+(Книга без фотографий).</p></div>
+			
+			<div class="writer wrt-8" style="height: 299px;">
+<img style="position:relative; top:10px; left:46px;" src="../../system/inline_image/image/00/00/93/85/base_shargunovBook.png" alt="" />
+<p style="margin-top: 22px;">Не носит, возможно, в пику<br />
+отцу — священнослужителю<br /> православной церкви, с которым <br />состоит в непростых отношениях:<br /> после письма в поддержку Pussy<br /> Riot Сергей получил ответное <br />
+от протоиерея Владимира<br /> Переслегина «по благословению <br />протоиерея Александра<br /> Шаргунова».</p></div>
+			
+			<div class="writer wrt-9" style="height: 103px;"><p style="
+    margin-top: 9px;
+">В каждой телепрограмме <br />
+с участием Шаргунова он, как <br />правило, резко оппонирует всем<br /> остальным гостям по любому<br /> обсуждаемому вопросу.</p></div>
+			
+			<div class="writer wrt-8" style="height:92px;"><p style="
+    margin-top: 15px;
+">Отдать голос <br>за Сергея Шаргунова</p>
+
+<p class="fb-div" style="color:#e7edef;">Сергей Шаргунов</p></div>
+			
+		</div>
+
+</div>

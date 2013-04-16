@@ -1,0 +1,96 @@
+<style>
+.clickLeft a, .clickRight a{color:#000;}
+.clickLeft a:hover, .clickRight a:hover{cursor:pointer; text-decoration:underline;}
+.arrowLeft, .arrowRight, .arrowLeft1, .arrowRight1{cursor:pointer}
+</style>
+
+<div style="height:220px;" ><p style="font-family: 'pf_din_text_comp_proregular'; font-size: 18px; color: #97b0b8; margin-left: 39px; line-height: 1.1em;">C тех пор как почти пять лет назад место главного писателя земли русской опустело,<br /> на лавры Cолженицына с разной степенью успешности претендуют литераторы<br /> молодые и заслуженные, скандально известные и благовоспитанные, бородатые<br /> и не очень. Писатели пытаются не отставать друг от друга, стараясь как можно точнее<br /> соответствовать выведенным нами &laquo;критериям Солженицына&raquo;.</p>
+<p style="font-family: 'pf_din_text_comp_proregular'; font-size: 18px; color: #97b0b8; margin-left: 39px; line-height: 1.1em;">Новая &laquo;Совесть нации&raquo; должна, как<br /> Солженицын, иметь непростой характер,<br /> бороться с режимом и обязательно получить<br /> крупную литературную премию.</p>
+
+<div class="header-writer">
+
+<div class="head-wrt">
+<p style="position: relative; left: 359px; top: -99px;" class="clickLeft" ><img class="arrowLeft" src="../../system/inline_image/image/00/00/92/79/base_arrowLeft.png" alt="" /></p>
+<p class="clickLeft wrtPrevName" style="font-family: 'pf_din_text_comp_proregular'; font-size: 21px;display:inline; color: #000; position: relative; left: 391px; top: -190px; cursor:pointer;"><a href="#14">Захар Прилепин</a></p>
+
+
+<p class="clickRight wrtNextName" style="font-family: 'pf_din_text_comp_proregular'; font-size: 21px; color: #000; display:inline; position: relative; top: -150px; left: 313px; cursor:pointer;"><a href="#14">Максим Кантор</a></p>
+<p class="clickRight" style=" position: relative; top: -130px; left: 313px; cursor:pointer;display:inline;"><img class="arrowRight"  src="../../system/inline_image/image/00/00/92/80/base_arrowRight.png" alt="" /></p>
+</div>
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+
+
+</style>
+
+
+<div style="height:180px; width:600px;position:relative;" class="header-writer">
+<div style="display:inline-block; width:100px; text-align:center; position:relative; left:177px; top:14px;"><img src="../../system/inline_image/image/00/00/93/07/base_solzh.png" alt="" />
+<p style="font-family: 'pf_din_text_comp_proregular'; font-size: 21px; color: #000; display: inline; position: relative; top:6px; line-height:1.1em;">Александр<br />
+Солженицын</p></div>
+
+<span style="font-family: 'pf_din_text_comp_proregular'; font-size: 16px; color: #97b0b8; position:relative; top:-73px; left:230px;">VS</span>
+
+<div  style="display: block; width: 100px; text-align: center; position: absolute; left: 400px; top: 10px;" name="Prochanov" class="head-wrt rwrt-0" ><img src="../../system/inline_image/image/00/00/93/14/base_prochanov.png" alt="" />
+<p style="font-family: 'pf_din_text_comp_proregular'; font-size: 21px; color: #000; display: inline; position: relative; line-height:1.1em; left:-3px; top:5px;">Александр Проханов</p></div>
+
+<div class="head-wrt rwrt-1"  name="Kantor" style=" display: none; width: 100px; text-align: center; position: absolute; left: 400px; top:11px; " ><img src="../../system/inline_image/image/00/00/93/10/base_kantor.png" alt="" />
+<p style="font-family: 'pf_din_text_comp_proregular'; font-size: 21px; color: #000; display: inline; position: relative; line-height:1.1em; left:10px; top:3px;">Максим Кантор</p></div>
+
+<div class="head-wrt rwrt-2"  name="Akunin" style="display: none; width: 100px; text-align: center; position: absolute; left: 400px; top:6px;" ><img src="../../system/inline_image/image/00/00/93/29/base_akunin.png" alt="" />
+<p style="font-family: 'pf_din_text_comp_proregular'; font-size: 21px; color: #000; display: inline; position: relative; line-height:1.1em; left:31px; top:-9px;">Борис</p>
+<p style="font-family: 'pf_din_text_comp_proregular'; font-size: 21px; color: #000; display: inline; position: relative; line-height:1.1em; left:-16px; top:13px;">Акунин</p></div>
+
+<div class="head-wrt rwrt-3"  name="Bikov" style="display: none; width: 100px; text-align: center; position: absolute; left: 400px; top:11px; " ><img src="../../system/inline_image/image/00/00/93/36/base_bikov.png" alt="" />
+<p style="font-family: 'pf_din_text_comp_proregular'; font-size: 21px; color: #000; display: inline; position: relative; line-height:1.1em;left:8px; top:-3px;">Дмитрий Быков</p></div>
+
+<div class="head-wrt rwrt-4"  name="Limonov" style="display: none; width: 100px; text-align: center; position: absolute; left: 400px; top:10px; "  ><img style="position:relative; top:4px; left:8px;" src="../../system/inline_image/image/00/00/93/69/base_limonov.png" alt="" />
+<p style="font-family: 'pf_din_text_comp_proregular'; font-size: 21px; color: #000; display: inline; position: relative; line-height:1.1em; left:13px; top:1px;">Эдуард<br /> Лимонов</p></div>
+
+<div class="head-wrt rwrt-5"  name="Ulizkaya" style="display: none; width: 100px; text-align: center; position: absolute; left: 400px; top:8px; " ><img src="../../system/inline_image/image/00/00/93/75/base_ulizkaya.png" alt="" />
+<p style="font-family: 'pf_din_text_comp_proregular'; font-size: 21px; color: #000; display: inline; position: relative; line-height:1.1em;left:6px; top:-3px;">Людмила <br />Улицкая</p></div>
+
+<div class="head-wrt rwrt-6"   name="Shishkin" style="display: none; width: 100px; text-align: center; position: absolute; left: 400px; top:10px;"><img src="../../system/inline_image/image/00/00/93/78/base_shishkin.png" alt="" />
+<p style="font-family: 'pf_din_text_comp_proregular'; font-size: 21px; color: #000; display: inline; position: relative; line-height:1.1em;">Михаил Шишкин</p></div>
+
+<div class="head-wrt rwrt-7"  name="Sadulaev" style="display: none; width: 100px; text-align: center; position: absolute; left: 400px;top:10px;" ><img src="../../system/inline_image/image/00/00/93/81/base_sadulaev.png" alt="" />
+<p style="font-family: 'pf_din_text_comp_proregular'; font-size: 21px; color: #000; display: inline; position: relative; line-height:1.1em;left:-3px; top:-3px;">Герман Садулаев</p></div>
+
+<div class="head-wrt rwrt-8"   name="Shargunov" style="display: none; width: 100px; text-align: center; position: absolute; left: 400px; top:10px;"><img src="../../system/inline_image/image/00/00/93/84/base_shargunov.png" alt="" />
+<p style="font-family: 'pf_din_text_comp_proregular'; font-size: 21px; color: #000; display: inline; position: relative; line-height:1.1em;left:9px; top:5px;">Сергей Шаргунов</p></div>
+
+<div class="head-wrt rwrt-9"  name="Elizarov" style=" display: none; width: 100px; text-align: center; position: absolute; left: 400px; top:7px;" ><img style="position:relative; top:4px; left:8px;" src="../../system/inline_image/image/00/00/93/91/base_elizarov.png" alt="" />
+<p style="font-family: 'pf_din_text_comp_proregular'; font-size: 21px; color: #000; display: inline; position: relative; line-height:1.1em; left:13px; top:9px;">Михаил<br /> Елизаров</p></div>
+
+<div class="head-wrt rwrt-10"  style="display: none; width: 100px; text-align: center; position: absolute; left: 400px; top:14px; " name="Prilepin" ><img src="../../system/inline_image/image/00/00/93/06/base_prilepin.png" alt="" />
+<p style="font-family: 'pf_din_text_comp_proregular'; font-size: 21px; color: #000; display: inline; position: relative; line-height:1.1em; left:13px; top:1px;">Захар<br /> Прилепин</p></div>
+
+
+
+
+
+</div>

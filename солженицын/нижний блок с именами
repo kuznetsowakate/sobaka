@@ -1,0 +1,12 @@
+<div class="header-writer">
+
+<div class="head-wrt " onclick="$(window.opera?'html':'html, body').animate({scrollTop:300},'slow');return false">
+<p class="clickLeft" style="position: relative; left: 359px; top: 30px;"><img class="arrowLeft"  src="../../system/inline_image/image/00/00/92/79/base_arrowLeft.png" alt="" /></p>
+<p class="clickLeft wrtPrevName" style="font-family: 'pf_din_text_comp_proregular'; display:inline;font-size: 21px; color: #000; position: relative; left: 391px; top: -60px; cursor:pointer;"><a href="#14">Захар Прилепин</a></p>
+
+
+<p class="clickRight wrtNextName" style="display:inline;font-family: 'pf_din_text_comp_proregular'; font-size: 21px; color: #000; position: relative; top: -20px; left: 313px; cursor:pointer;"><a href="#14">Максим Кантор</a></p>
+<p class="clickRight" style="display:inline; position: relative; top: 0px; left: 313px; cursor:pointer;"><img class="arrowRight"   src="../../system/inline_image/image/00/00/92/80/base_arrowRight.png" alt="" /></p>
+</div>
+
+</div>

@@ -1,0 +1,934 @@
+  		  		<style>
+		body{font-family:Arial; font-size:12px;}
+		
+                 
+		.b { margin:0; padding:0; }
+		.b-cnt { position:relative; overflow:hidden; width:600px; height:1710px;}
+
+		.b-left { position:relative; top:0; width:330px; float:left; }
+		.b-left .source { padding:8px; position:relative; text-align:right;}
+		.b-left .source:nth-child(odd) { color:#000; background:#e7edef;  }
+		.b-left p.head { width:120px;height:100%;position:absolute; font-family: 'pf_din_text_comp_proregular'; font-size:16px; text-transform:uppercase; display:inline; top:27px; right:223px; letter-spacing:1px; line-height:1.2em;}
+		.b-left p.solzh{ width:215px; margin:0; margin-left:120px;  margin-top:5px;font-family:Arial, serif; font-size:12px; text-align:left; line-height:1.3em;}
+
+
+		.b-sep { width:30px; min-height:100%; float:left; }
+		.b-sep__item { position:absolute; width:40px; }
+		.b-sep__item .top, .b-sep__item .bottom { width:100%; display:block; position:relative; }
+		.b-sep__item div { width:100%; background:#e7edef; position:relative;  }
+
+
+		.b-right { position:relative; top:0; float:left; width:240px; }
+         .b-right p{margin:0; font-family:Arial, serif; font-size:12px; line-height:1.3em; margin-left:1px;}
+		.b-right .writer { padding:8px; }
+		.b-right .writer:nth-child(odd) { color:#000; background:#e7edef; }
+ 	
+ 	</style>
+
+<div class="b-cnt">
+		<div class="b-left">
+			<!--
+				тут исходный писатель, его можно забивать руками, главное - проставить классы 
+				source - класс для оформления, можно забить любой
+			-->
+			<div class="source src-0" style="height:175px;">
+			
+			<p class="head">Тюрьма</p>
+			
+			<p class="solzh">В 1945 году приговорен к восьми<br> годам исправительно-трудовых<br> лагерей по 58-й статье за критику<br> Сталина в переписке с армейским<br> товарищем. Сидел в Подмосковье<br> и Казахстане. В 1953 году<br> отправлен в вечную ссылку,<br> лечился в ташкентской тюремной<br> больнице от рака. Освобожден <br>
+			в июне 1956-го, в следующем году<br> реабилитирован.</p>
+			
+			</div>
+			<div class="source src-1" style="height:175px;">
+			
+			<p class="head">Борьба<br> с режимом</p>
+			
+			<p class="solzh">В КГБ на рубеже 1960–1970-х <br>чрезмерно говорливым<br> Солженицыным занимался целый<br> 9-й отдел 5-го управления.<br> Созданный писателем уже в<br> эмиграции Русский общественный<br> фонд помощи преследуемым и их<br>семьям помогал политзаключен-<br>
+			ным в СССР, отправляя легально <br>
+			и нелегально посылки и денежные<br> переводы.</p>
+						
+			</div>
+			<div class="source src-2" style="height: 85px;">
+			
+			<p class="head">Проживание<br> за границей</p>
+			
+			<p class="solzh"><b>Обвинен в измене Родине и <br>выслан из СССР в 1974 году.</b> <br>
+			Жил сначала в Цюрихе, затем в<br> американском штате Вермонт.<br> Вернулся в 1994-м.</p>
+			
+			</div>
+			<div class="source src-3" style="height:295px;">
+			
+			<p class="head">Флирт<br> с политиками</p>
+			
+			<p class="solzh" style="
+    margin-top: 3px;
+">За «Один день Ивана <br>Денисовича», напечатанный<br> благодаря поддержке Хрущева,<br> Солженицына приняли в Союз<br> писателей, а его повесть<br> выдвинули на соискание<br> Ленинской премии. После<br> возвращения получил в подарок <br>
+			от Ельцина госдачу «Сосновка-2»<br> — огромное поместье на берегу<br> Москвы-реки, но позже отказался<br> от ордена Андрея Первозванного:<br> «От верховной власти, доведшей<br> Россию до нынешнего гибельного<br> состояния, я принять награду не<br> могу». Под конец жизни негативно<br> отзывался о продвижении НАТО <br>
+			на Восток и позитивно<br> 
+			о президенте Путине.</p>
+			
+			</div>
+			<div class="source src-4" style="height: 99px;">
+			<p class="head" style="
+    margin-top: -3px;
+">Интерес<br> к истории</p>
+			
+			<p class="solzh" style="
+    margin-top: 3px;
+">Исследовал в «Архипелаге ГУЛАГ»<br> историю сталинских репрессий,<br> 
+			а в многотомном романе-эпопее<br> «Красное колесо» — России с<br> начала Первой мировой войны <br>
+			и до Октябрьской революции.</p>
+			</div>
+			
+			<div class="source src-5" style="height: 55px;">
+			
+			<p class="head" style="
+    margin-top: -13px;
+">Пересмотр<br> истории</p>
+			
+			<p class="solzh" style="
+    margin-top: 3px;
+">В «Красном колесе» популяризи-<br> 
+			ровал образ Ленина — немецкого<br>  шпиона.</p>
+			
+			</div>
+			
+			<div class="source src-6" style="height: 203px;">
+			
+			<p class="head" style="
+    margin-top: -4px;
+">Большая<br>премия</p>
+			
+			<p class="solzh" style="
+    margin-top: 2px;
+"><b>Нобелевская премия по<br> литературе</b> «за нравственную<br> силу, с которой он следовал<br> непреложным традициям русской<br> литературы» (1970) и Государст-<br>
+			венная премия РСФСР за<br> «Архипелаг ГУЛАГ» (1990).<br> 
+			В 1998 году писатель учредил<br> собственную литературную<br> премию, лауреатами которой<br> становились Валентин Распутин,<br> Владимир Бортко, Виктор<br> Астафьев и другие.</p>
+			
+			</div>
+			<div class="source src-7" style="height: 69px;">
+			
+			<p class="head" style="
+    margin-top: -2px;
+">Цитата</p>
+			
+			<p class="solzh"><b>«Милосердная к мужчинам, <br>война унесла их. А женщин<br> оставила домучиваться»</b><br> (Раковый корпус).</p>
+			
+			</div>
+			<div class="source src-8" style="height:98px;">
+			
+			<p class="head" style="
+    margin-top: -3px;
+">Борода</p>
+			
+			<p class="solzh" style="
+    margin-top: 3px;
+">Длинная, крестьянская, <br>придающая ему сходство со Львом<br> Толстым, не только «зеркалом<br> русской революции», но и<br> родоначальником всех наших<br> писателей-почвенников.</p>
+			
+			</div>
+			<div class="source src-9" style="height:130px;">
+			
+			<p class="head">Скверный<br> характер</p>
+			
+			<p class="solzh">И в России, и в США писатель<br> предпочитал жить угрюмо и<br> изолированно за высоким забором.<br> Посетивший его в штате Вермонт<br> фотограф Time отметил в<br> комментарии к снимку, что это<br> была не самая приятная в<br> общении фотомодель.</p>
+			
+			</div>
+			<div class="source src-10" style="height:143px;">
+			
+			<p class="head" style="
+    margin-top: -3px;
+">Соответствие<br> критерию</p>
+			
+			<p class="solzh" style="
+    margin-top: 3px;
+">Сегодня уже и сам Солженицын<br>
+			не смог бы состязаться с самим<br> собой — одним из главных<br> интеллигентских авторитетов<br> 1970-х. Вернувшись в пост-<br>
+			перестроечную Россию с само-<br> ощущением мессии, он обнаружил,<br> что принимают его больше за<br> чудака-оригинала.</p>
+			
+			</div>
+			
+		</div>
+
+		<div class="b-sep">
+
+
+
+<img name="Prochanov" style="margin:-1px 0 0 0; " src="../../system/inline_image/image/00/00/93/21/base_sepProchanov.png" alt="">
+<img name="Kantor" style="margin:0;display:none;" src="../../system/inline_image/image/00/00/93/11/base_sepKantor.png" alt="">
+<img name="Akunin" style="margin:-1px 0 0 0; width:30px; height:1705px; display:none;" src="../../system/inline_image/image/00/00/93/30/base_sepAkunin.png" alt="">
+<img name="Bikov" style="margin:-1px 0 0 0; width:30px; height:1705px; display:none;" src="../../system/inline_image/image/00/00/93/37/base_sepBikov.png" alt="">
+<img name="Limonov" style="margin:-1px 0 0 0; width:30px; height:1704px; display:none;" src="../../system/inline_image/image/00/00/93/73/base_sepLimonov.png" alt="">
+<img name="Ulizkaya" style="margin:-1px 0 0 0; width:30px; height:1704px;display:none;" src="../../system/inline_image/image/00/00/93/89/base_sepUlizkaya.png" alt="">
+<img name="Shishkin" style="margin:-1px 0 0 0; width:30px; height:1705px;display:none; " src="../../system/inline_image/image/00/00/93/80/base_sepShishkin.png" alt="">
+<img name="Sadulaev" style="margin:-1px 0 0 0; width:30px; height:1705px; display:none;" src="../../system/inline_image/image/00/00/93/83/base_sepSadulaev.png" alt="">
+<img name="Shargunov" style="margin:-1px 0 0 0; width:30px; height:1704px; display:none;" src="../../system/inline_image/image/00/00/93/87/base_sepShargunov.png" alt="">
+<img name="Elizarov" style="margin:-1px 0 0 0; width:30px; height:1704px; display:none;" src="../../system/inline_image/image/00/00/93/93/base_sepElizarov.png" alt="">
+<img name="Prilepin" style="margin:0; display:none;" src="../../system/inline_image/image/00/00/92/78/base_sep1.png" alt="">
+
+</div>
+
+
+
+
+
+
+
+<div class="b-right" id="Prochanov">
+			<div class="writer wrt-0" style="height:62px;"><p style="
+    margin-top: 6px;
+">Будучи радикальным критиком<br> власти, Проханов сумел избежать<br> знакомства с застенками.</p></div>
+			
+			<div class="writer wrt-1" style="height:176px;"><p style="margin-top:14px;">Поддерживал ГКЧП в 1991-м,<br> позднее активно выступал против<br> Ельцина. <b>Прохановскую газету<br> «День» запретили, ее<br> сотрудников избил ОМОН,</b> <br>
+но сам он создал еще более<br> оппозиционную газету «Завтра».<br> В романе «Господин Гексоген»<br> обвинил спецслужбы во взрывах<br> жилых домов в 1999 году.</p></div>
+			
+			<div class="writer wrt-2" style="height:101px;"><p style="
+    margin-top: 9px;
+">В советское время работал<br> корреспондентом «Литературной<br> газеты» в Латинской Америке,<br>
+Африке, Юго-Восточной Азии <br>
+и на Среднем Востоке.</p></div>
+			
+			<div class="writer wrt-3" style="height: 245px;"><p style="margin-top:9px;">Поддерживал на президентских<br> выборах Макашова и Зюганова.<br> 
+<b>В 2012 году опубликовал<br> статью «Путинское <br>мессианство», о том, что<br> должен сделать президент: </b><br>«...разгромить метафизическую<br> машину, уничтожающую русскую <br>цивилизацию. Путин воюет <br>
+с Болотной площадью. Он<br> укрощает военный порыв, <br>разгромивший Ирак и Ливию,<br> громящий Сирию, приближающий<br> к границам России мировую<br> войну».</p></div>
+			
+			<div class="writer wrt-4" style="height: 130px;"><p style="
+    margin-top: 8px;
+">Воспевал русскую деревню,<br> писал очерки о поездках по<br> стране, на событиях в<br> Афганистане построил целые<br> романы: «Дерево в центре<br> Кабула», «Рисунки баталиста»,<br> «Шестьсот лет после битвы».</p></div>
+			
+			<div class="writer wrt-5" style="height:229px;"><p style="
+    margin-top: 8px;
+">В «Поступи русской победы»<br> описал идею пятой империи,<br> которая приходит сейчас вслед<br> за Киевской Русью, Московским<br> царством, Российской империей,<br> Советским Союзом: «Страна,<br> пережившая страшный обморок,<br> вновь воссияет священными<br> центрами, в которых будут <br>явлены великие истины, <br>свершатся небывалые деяния.<br><b> Во всей красоте и величии<br> обнаружит себя „русская<br> цивилизация“».</b></p></div>
+			
+			<div class="writer wrt-6" style="height:92px;">
+<img style="position:relative; top:4px; left:1px;" src="../../system/inline_image/image/00/00/93/23/base_prochanovBook.png" alt="">
+<p style="position:relative; top:-66px; left:54px;">«Национальный<br> бестселлер» — <br>
+за роман «Господин<br> Гексоген» (2002).</p></div>
+			
+			<div class="writer wrt-7" style="height:136px;"><p style="
+    margin-top: 11px;
+"><b>«Схватка Гитлера и Сталина<br> настоящая еще впереди. <br>
+Она не под Сталинградом, она <br>
+не в Берлине, она в наших <br>
+с вами днях, она в наших <br>
+с вами сердцах»</b><br>
+(Хождение в огонь).</p></div>
+			
+			<div class="writer wrt-8" style="height: 161px;"><p style="
+    margin-top: 12px;
+">Не последовал примеру своего<br> деда Ивана Степановича,<br> руководителя Всероссийского<br> союза евангельских христиан,<br> 
+и бородой не обзавелся. Зато<br> умеет благожелательно,<br> сосредоточенно,<br> по-солженицынски глядеть <br>
+из-под насупленных бровей.</p></div>
+			
+			<div class="writer wrt-9" style="height: 79px;"><p style="
+    margin-top: 11px;
+">В одном из интервью признался,<br> что с удовольствием обзавелся<br> 
+бы оружием.</p></div>
+			
+			<div class="writer wrt-8" style="height:96px;"><p style="
+    margin-top: 9px;
+">Отдать голос <br>за Александра Проханова</p>
+
+<p class="fb-div3" style="color:#e7edef;"><span class="fb-title">Александр Проханов</span><span class="fb-img" style="display:none">http://www.sobaka.ru/system/inline_image/image/00/00/93/14/base_prochanov.png</span><span class="fb-text">Александр Проханов</span></p></div>
+			
+		</div>
+
+
+
+
+		
+
+
+
+
+
+
+<div class="b-right" id="Kantor" style="display:none;">
+			<div class="writer wrt-0" style="height:63px;"><p style="
+    margin-top: 15px;
+">Изучал репрессии <br>
+в архивах..</p></div>
+			
+			<div class="writer wrt-1" style="height:113px;"><p style="margin-top:16px;">Подвергает сомнению и метания<br> власти, и выдумки оппозиции.</p></div>
+			
+			<div class="writer wrt-2" style="height:90px;"><p style="
+    margin-top: 15px;
+"><b>Живет в Европе,</b> готовит<br> выставки своих работ в Берлине,<br> Венеции и Нью-Йорке.</p></div>
+			
+			<div class="writer wrt-3" style="height: 167px;"><p style="margin-top:17px;">Превращает в героев своих <br>
+книг  не только лидеров<br> прошлого, но и оппозиционеров<br> 
+с фээсбэшниками.</p></div>
+			
+			<div class="writer wrt-4" style="height: 169px;"><p style="
+    margin-top: 18px;
+"><b>От 1914-го до 2013-го:</b><br>
+Ленин, Сталин, Гитлер,<br> демократия, империя, права <br>человека, тоталитаризм,<br> московская тусовка, выводимая<br> под псевдонимами, — вроде<br> редактора «Сноба» <br>
+Фрумкиной.</p></div>
+			
+			<div class="writer wrt-5" style="height:160px;"><p style="
+    margin-top: 12px;
+"><b>Задает проклятые вопросы:</b><br>
+так ли трагична, к примеру,<br> Вторая мировая война на фоне<br> бесконечных локальных войн <br>
+в последние шестьдесят лет?</p></div>
+			
+			<div class="writer wrt-6" style="height:216px;">
+<img style="position:relative; top:13px; left:97px;" src="../../system/inline_image/image/00/00/93/12/base_kantorBook.png" alt="">
+<p style="
+    margin-top: 23px;
+">Финалист премии <b>«Большая<br> книга»</b> (2006) и лонг-листер<br> «Русского Букера» (2006) — <br>
+за книгу «Учебник рисования».</p></div>
+			
+			<div class="writer wrt-7" style="height:195px;"><p style="
+    margin-top: 13px;
+    margin-left: 2px;
+"><b>«Сопротивляться сразу <br>
+всему невозможно: легко быть<br> диссидентом по отношению <br>
+к советской власти, когда за<br> спиной у тебя весь мир,<br> 
+а стать диссидентом по<br> отношению к миру — <br>
+страшная глупость. Боюсь,<br> 
+я ее совершил»</b><br>
+(Медленные челюсти<br> демократии).</p></div>
+			
+			<div class="writer wrt-8" style="height: 58px;"><p style="
+    margin-top: 15px;
+">Ее у Кантора нет, несмотря <br>
+на статус успешного художника.</p></div>
+			
+			<div class="writer wrt-9" style="height: 197px;"><p style="
+    margin-top: 19px;
+">Прославился многословными<br> постами в «Фейсбуке», <br>вызывающими десятки<br> комментов, и демагогической <br>статьей на OpenSpace <b>«Почему<br>
+я не ношу белую ленточку», </b><br>
+за которую был внесен в список<br> кандидатов на звание «Тролль<br> года».</p></div>
+			
+			<div class="writer wrt-8" style="height:99px;"><p style="
+    margin-top: 15px;
+">Отдать голос <br>за Максима Кантора</p>
+
+<p class="fb-div3" style="color:#e7edef;"><span class="fb-title">Максим Кантор </span><span class="fb-img" style="display:none">http://www.sobaka.ru/system/inline_image/image/00/00/93/10/base_kantor.png</span><span class="fb-text" style="display:none;">Максим Кантор </span></p></div>
+			
+		</div>
+
+
+
+
+		
+
+
+
+<div class="b-right" id="Akunin" style="display:none;">
+			<div class="writer wrt-0" style="height:104px;"><p style="
+&nbsp; &nbsp; margin-top: 16px;
+">К счастью для писателя, опыт <br>
+его взаимоотношений с тюрьмой<br> и зоной ограничивается <br>письмами Ходорковскому.</p></div>
+			
+			<div class="writer wrt-1" style="height:165px;"><p style="margin-top:12px;">В 2006 году в интервью газете<br> Liberation <b>сравнил Путина <br>
+с императором Калигулой.</b><br> Критически отзывался о деле<br> ЮКОСа. Участвовал в митинге <br>
+на Болотной площади в 2011-м <br>
+и в акции «Большой белый круг»<br> в 2012-м, стал соучредителем<br> Лиги избирателей.</p></div>
+			
+			<div class="writer wrt-2" style="height:75px;"><p style="
+&nbsp; &nbsp; margin-top: 11px;
+">Заслуженный японист,<br>
+подробно изучил Страну<br> восходящего солнца.</p></div>
+			
+			<div class="writer wrt-3" style="height: 274px;">
+<img style="margin-top:12px; margin-left:44px;" src="../../system/inline_image/image/00/00/93/31/base_akuninBook.png" alt="">
+<p style="margin-top:6px;">С политиками прошлого, чаще<br> всего из последних Романовых:<br>&nbsp;
+с Александром III, Николаем II, <br>
+а также с братом и дядей двух<br> предыдущих, великим князем<br> Сергеем Александровичем.</p></div>
+			
+			<div class="writer wrt-4" style="height: 85px;"><p style="
+&nbsp; &nbsp; margin-top: 13px;
+">В литературе — к царской <br> России, в публицистике — <br>
+к современной.</p></div>
+			
+			<div class="writer wrt-5" style="height:224px;"><p style="
+&nbsp; &nbsp; margin-top: 14px;
+"><b>Внедряет своего главного <br>
+героя Эраста Фандорина <br>
+в самые любопытные<br> моменты русской истории, </b><br>
+от коронации императора<br> Николая II &nbsp;до Первой мировой<br> войны. В «Аристономии» — <br>первом серьезном «романе<br> идей», написанном после<br> десятков приключенческих, —<br> обратился к теме революции <br>
+и Гражданской войны.</p></div>
+			
+			<div class="writer wrt-6" style="height:100px;"><p style="
+&nbsp; &nbsp; margin-top: 14px;
+"><b>Премия «Антибукер» </b>— за книгу<br> «Коронация, или Последний из<br> романов» (2000).</p></div>
+			
+			<div class="writer wrt-7" style="height:128px;"><p style="
+&nbsp; &nbsp; margin-top: 11px;
+"><b>«Отчего во всяком деле,<br> &nbsp;связанном с политикой,<br> &nbsp;непременно есть привкус<br> &nbsp;тухлости и грязи?»</b><br>&nbsp;
+(Статский советник).</p></div>
+			
+			<div class="writer wrt-8" style="height: 62px;"><p style="
+&nbsp; &nbsp; margin-top: 15px;
+">Конечно да, как и полагается<br> любителю пыльных архивов.</p></div>
+			
+			<div class="writer wrt-9" style="height: 182px;"><p style="
+&nbsp; &nbsp; margin-top: 18px;
+">Имеет мирный нрав. <b>Все<br> &nbsp;связанные с ним скандалы — <br>&nbsp;
+на уровне абсурда.</b> К примеру,<br> &nbsp;Следственный комитет как-то<br> &nbsp;искал экстремизм в романе<br> &nbsp;«Весь мир театр», но потом<br> &nbsp;отказался возбуждать уголовное<br> &nbsp;дело.</p></div>
+			
+			<div class="writer wrt-8" style="height:100px;"><p style="
+&nbsp; &nbsp; margin-top: 16px;
+">Отдать голос <br>за Бориса Акунина</p>
+
+
+
+
+<p class="fb-div3" style="color:#e7edef;"><span class="fb-title">Борис Акунин </span><span class="fb-img" style="display:none">http://www.sobaka.ru/system/inline_image/image/00/00/93/29/base_akunin.png</span><span class="fb-text" style="display:none;">Борис Акунин </span></p></div>
+			
+		</div>
+
+
+
+
+
+
+
+
+
+
+		<div class="b-right" id="Bikov" style="display:none;">
+			<div class="writer wrt-0" style="height:70px;"><p style=" margin-top: 15px;">Мирному книголюбу и<br> талантливому графоману<br>
+там не место.</p></div>
+			
+			<div class="writer wrt-1" style="height:229px;">
+<p style="margin-top:8px;"><b>Выступал на митингах <br>
+на Болотной площади<br>
+и проспекте Сахарова, </b><br>
+стал соучредителем Лиги<br> избирателей, занял второе место<br> на выборах Координационного совета оппозиции. Отказался <br>
+от участия в писательской<br> встрече с премьер-министром <br>Владимиром Путиным в 2009-м:<br> «Потому что там придется не<br> говорить о чем-то важном, а<br> поздравлять юбиляра, торт<br> есть».</p>
+
+</div>
+			
+			<div class="writer wrt-2" style="height:97px;"><p style="margin-top: 6px;">Живет и работает в Москве,<br> откуда переезжать не <br>собирается, поскольку здесь<br> сосредоточены все источники<br> доходов многодетного отца.</p></div>
+			
+			<div class="writer wrt-3" style="height: 200px;"><p style="margin-top:8px;">
+<img src="../../system/inline_image/image/00/00/93/38/base_bikovBook.png" alt="" style="position:relative; top:-2px; left:83px;">
+<p style="position:relative; top:-124px; left:-1px;">В проекте <br />
+«Гражданин<br />
+ поэт»  с помощью <br />
+актера Михаила <br />
+Ефремова <br />
+в ироничной <br />
+форме <br />
+воспел <br />
+все потехи тандема —  от<br /> создания Общероссийского <br>народного фронта до погружения<br /> на дно Таманского залива.</p></p></div>
+			
+			<div class="writer wrt-4" style="height: 122px;"><p style="
+    margin-top: 7px;
+">В первую очередь — <br>
+к современной. Создал<br> «Календарь. Разговоры <br>
+о главном», доказав, что может<br> найти место в истории не только<br> для Феллини, но и для<br> Маргариты Симоньян.</p></div>
+			
+			<div class="writer wrt-5" style="height:255px;"><p style="
+    margin-top: 8px;
+">Превратил 1990-е в объект<br> сатиры в новых русских сказках<br> «Как Путин стал президентом<br> США». В романе «Оправдание»<br> выдвинул версию, что выжившие<br> на допросах жертвы сталинизма<br> отправлялись в особые лагеря,<br> где из них делали сверхлюдей. <br>
+<b>В «ЖД» описал гражданскую<br> войну, где варяги-русские<br> бьются с евреями, которые<br> хотят возродить Хазарский<br> каганат.</b> Также переосмыслил<br> биографию Пастернака в серии<br> «ЖЗЛ», рискованно срифмовав <br>
+ее с собственной.</p></div>
+			
+			<div class="writer wrt-6" style="height:143px;"><p style="
+    margin-top: 15px;
+"><b>Три премии имени Стругацких</b><br> — за романы «Орфография»<br> (2004), «Эвакуатор» (2006) <br>
+и «ЖД» (2007). Два<br> «Национальных бестселлера» — <br>за «Бориса Пастернака» (2006)<br> 
+и роман «Остромов, или Ученик<br> чародея» (2011).</p></div>
+			
+			<div class="writer wrt-7" style="height:77px;"><p style="
+    margin-top: 9px;
+    margin-left: 2px;
+"><b>«Не раскачивайте лодку —<br> нашу крысу тошнит!» </b><br>(митинговый лозунг).</p></div>
+			
+			<div class="writer wrt-8" style="height: 105px;"><p style="
+    margin-top: 11px;
+">Нет. Есть усы, что делает <br>
+Быкова Бальзаком новой русской<br> словесности — и по внешнему<br> виду, и по стахановской<br> работоспособности.</p></div>
+			
+			<div class="writer wrt-9" style="height: 110px;"><p style="
+    margin-top: 15px;
+"><b>Не щадит никого:</b> написал<br> сценарий «Патологоанатомия<br> оппозиции», в котором прошелся<br> по Навальному и Удальцову.</p></div>
+			
+			<div class="writer wrt-8" style="height:104px;"><p style="
+    margin-top: 15px;
+">Отдать голос <br>за Дмитрия Быкова</p>
+
+<p class="fb-div3" style="color:#e7edef;"><span class="fb-title">Дмитрий Быков</span><span class="fb-img" style="display:none">http://www.sobaka.ru/system/inline_image/image/00/00/93/36/base_bikov.png</span><span class="fb-text" style="display:none;">Дмитрий Быков</span></p></div>
+			
+		</div>
+
+
+
+
+
+
+
+
+<div class="b-right" id="Limonov" style="display:none;">
+			<div class="writer wrt-0" style="height: 73px;"><p style="
+    margin-top: 5px;
+">В 2001-м осужден на четыре года<br/> по обвинению в хранении<br/> оружия, освобожден условно-<br/>
+досрочно в 2003-м.</p></div>
+			
+			<div class="writer wrt-1" style="height:203px;"><p style="margin-top:6px;">В 1993 году основал <br/>Национал-большевистскую<br/> партию. Воевал за сербов,<br/> абхазов и приднестровцев.<br/> Якобы готовил вооруженное<br/> вторжение боевиков НБП <br/>
+в Казахстан. Стал лидером<br/> оппозиционной коалиции <br/>
+«Другая Россия». Выдвигался <br/>
+на президентских выборах 2012<br/> года, но был снят <br/>Центризбиркомом.</p></div>
+			
+			<div class="writer wrt-2" style="height:130px;"><p style="
+    margin-top: 9px;
+">С 1974 года жил в Нью-Йорке,<br/> обличая капитализм, проходя<br/> через допросы в ФБР и<br/> приковывая себя к зданию New<br/> York Times. Перебрался в Париж,<br/> откуда в начале 1990-х уехал <br/>
+в Россию.</p></div>
+			
+			<div class="writer wrt-3" style="height: 225px;">
+<img style="position:relative; left:26px;" src="../../system/inline_image/image/00/00/93/70/base_limonovBook.png" alt="">
+<p style="margin-top:2px;">Участвовал в обороне Белого <br/>дома в 1993-м. Согласился стать<br/> главой Федерального бюро<br/> расследований при «теневом<br/> кабинете» Жириновского.<br/> Поддержал Ельцина как <br/>кандидата в президенты <br/>
+в 1996 году.</p></div>
+			
+			<div class="writer wrt-4" style="height: 78px;"><p style="
+    margin-top: 7px;
+">Считает, что история движется<br/> исключительными личностями,<br/> которые что-то вложили <br/>
+в развитие вида.</p></div>
+			
+			<div class="writer wrt-5" style="height:200px;"><p style="
+    margin-top: 8px;
+"><b>Ленин для него — великий<br/> человек,</b> совершивший великую<br/> революцию, а вот Горбачев —<br/> слабый политик. Противник<br/> перестройки: «Задуманная <br/>авторитарными заговорщиками<br/> как модернизация советского<br/> общества сверху, около 1988 года <br/>она была угнана экстремист-<br/>
+скими националистами и<br/> радикальной советской <br/>буржуазией».</p></div>
+			
+			<div class="writer wrt-6" style="height:50px;"><p style="
+    margin-top: 8px;
+"><b>Премия Андрея Белого — </b><br/>
+за мемуары «Книга воды» (2002).</p></div>
+			
+			<div class="writer wrt-7" style="height:110px;"><p style="
+    margin-top: 6px;
+    margin-left: 2px;
+"><b>«В известном смысле у них нет<br/> Родины. Их родина — это щель<br/> между кроватью, шкафом,<br/> ковром, грузными телами<br/> 
+папки и мамки»</b><br/>
+(Путем Рахметова).</p></div>
+			
+			<div class="writer wrt-8" style="height: 125px;"><p style="
+    margin-top: 11px;
+">Вполне мушкетерская. Может<br/> быть, этот имидж постаревшего<br/> д'Артаньяна и стал причиной<br/> бешеного успеха во Франции<br/> биографии Лимонова авторства <br/>Эммануэля Каррера?</p></div>
+			
+			<div class="writer wrt-9" style="height: 167px;"><p style="
+    margin-top: 11px;
+">В 2010-м отказался участвовать <br/>
+в митинге в защиту 31-й статьи<br/> Конституции на Триумфальной<br/> площади, на который власти<br/> дали разрешение после<br/> множества несанкционированных<br/> акций. Это ему уже было<br/> неинтересно.</p></div>
+			
+			<div class="writer wrt-8" style="height:112px;"><p style="
+    margin-top: 15px;
+">Отдать голос <br>за Эдуарда Лимонова</p>
+
+<p class="fb-div3" style="color:#e7edef;"><span class="fb-title">Эдуард Лимонов</span><span class="fb-img" style="display:none">http://www.sobaka.ru/system/inline_image/image/00/00/93/69/base_limonov.png</span><span class="fb-text" style="display:none;">Эдуард Лимонов</span></p></div>
+			
+		</div>
+
+
+
+
+
+
+
+
+<div class="b-right" id="Ulizkaya" style="display:none;">
+			<div class="writer wrt-0" style="height: 73px;"><p style="
+    margin-top: 14px;
+">Разве что советского застоя.</p></div>
+			
+			<div class="writer wrt-1" style="height:312px;"><p style="margin-top:20px;">В 1970 году была уволена из<br /> Института общей генетики за <br />распространение самиздата. <br />
+В 2000-х опубликовала в «Новой<br /> газете» свою переписку 
+с Михаилом Ходорковским,<br /> повторила поступок Быкова <br />
+в отношении встречи с Путиным <br />
+и недавно написала речь <br />
+в поддержку Pussy Riot.</p>
+<img style="margin-top:16px; margin-left:30px;" src="../../system/inline_image/image/00/00/93/90/base_ulizkayaBook.png" alt="" />
+</div>
+			
+			<div class="writer wrt-2" style="height:119px;"><p style="
+    margin-top: 16px;
+">Регулярно и подолгу<br /> путешествует. Сыновья Улицкой <br />прожили несколько лет в США <br />
+и вернулись в Москву.</p></div>
+			
+			<div class="writer wrt-3" style="height: 71px;">
+
+<p style="margin-top:26px;"><b>Никогда и ни с какими</b></p></div>
+			
+			<div class="writer wrt-4" style="height: 160px;"><p style="
+    margin-top: 25px;
+">Собрала книгу воспaоминаний<br /> обычных людей о первых годах<br /> после Второй мировой войны <br />«Детство 45–53», которая выйдет<br /> в мае 2013-го.</p></div>
+			
+			<div class="writer wrt-5" style="height:113px;"><p style="
+    margin-top: 20px;
+">В «Золотом шатре»<br /> романтизировала поколение<br /> диссидентов-шестидесятников.</p></div>
+			
+			<div class="writer wrt-6" style="height:147px;"><p style="
+    margin-top: 20px;
+"><b>«Русский Букер» </b>— за роман <br />«Казус Кукоцкого» (2001), <br />
+премия <b>«Большая книга» </b>— <br />
+за роман «Даниэль Штайн,<br /> переводчик» (2007).</p></div>
+			
+			<div class="writer wrt-7" style="height:110px;"><p style="
+    margin-top: 20px;
+    margin-left: 2px;
+"><b>«Чем более послушен человек,<br /> тем менее ценна его личность» </b><br />(Казус Кукоцкого).</p></div>
+			
+			<div class="writer wrt-8" style="height: 47px;"><p style="
+    margin-top: 16px;
+">Невозможна</p></div>
+			
+			<div class="writer wrt-9" style="height: 166px;"><p style="
+    margin-top: 17px;
+">На фоне остальных литераторов<br /> производит впечатление ангела.<br /> На публичные выступления<br /> соглашается исключительно <br />
+«по слабости характера».</p></div>
+			
+			<div class="writer wrt-8" style="height:120px;"><p style="
+    margin-top: 15px;
+">Отдать голос <br>за Людмилу Улицкую</p>
+
+<p class="fb-div3" style="color:#e7edef;"><span class="fb-title">Людмила Улицкая</span><span class="fb-img" style="display:none">http://www.sobaka.ru/system/inline_image/image/00/00/93/75/base_ulizkaya.png</span><span class="fb-text" style="display:none;">Людмила Улицкая</span></p></div>
+			
+		</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="b-right" id="Shishkin" style="display:none;">
+			<div class="writer wrt-0" style="height: 100px;"><p style="
+    margin-top: 14px;
+">Разовые посещения в качестве <br />переводчика в ходе работы <br />
+с иммигрантами в Швейцарии.</p></div>
+			
+			<div class="writer wrt-1" style="height:102px;"><p style="margin-top:12px;"><b>В школе фотокопировал<br /> тамиздат.</b></p></div>
+			
+			<div class="writer wrt-2" style="height:86px;"><p style="
+    margin-top: 17px;
+">С 1995 года жил в Цюрихе,<br /> 
+в 2012-м переехал в Берлин.</p></div>
+			
+			<div class="writer wrt-3" style="height: 145px;">
+
+<p style="margin-top:15px;">Только со швейцарскими.</p></div>
+			
+			<div class="writer wrt-4" style="height: 224px;"><p style="
+    margin-top: 24px;
+"><b>Шишкина интересует жизнь<br /> полузабытых, но ярких <br />личностей,</b> вроде певицы<br /> Изабеллы Юрьевой или <br />феминистки-социалистки Лидии<br /> Кочетковой. Или безымянного<br /> опущенного заключенного.</p></div>
+			
+			<div class="writer wrt-5" style="height:248px;">
+<img style="position:relative; top:19px; left:1px;" src="../../system/inline_image/image/00/00/93/79/base_shishkinBook.png" alt="" />
+<p style="margin-top: -97px; margin-left:100px;">Перемешал<br /> автобиографию,<br /> российскую <br />историю <br />
+и мифы,<br /> Чехова,<br /> Набокова,<br /> Толстого</p>
+<p style="margin-top: -2px;"> и Сашу Соколова и создал свое<br /> «собранье пестрых глав» под <br />
+названием «Взятие Измаила».</p></div>
+			
+			<div class="writer wrt-6" style="height:116px;"><p style="
+    margin-top: 14px;
+"><b>«Русский Букер» </b>— за роман <br />«Взятие Измаила» (2000), <br />
+<b>«Большая книга» </b>— за роман<br />
+ «Письмовник» (2010).</p></div>
+			
+			<div class="writer wrt-7" style="height:153px;"><p style="
+    margin-top: 14px;
+    margin-left: 2px;
+"><b>«Человек есть хамелеон:<br /> живущий с мусульманами — <br />мусульманин, с волками —<br /> волк» </b><br />
+(Венерин волос).</p></div>
+			
+			<div class="writer wrt-8" style="height: 63px;"><p style="
+    margin-top: 14px;
+">Ограниченно бородат.</p></div>
+			
+			<div class="writer wrt-9" style="height: 129px;"><p style="
+    margin-top: 15px;
+">Редко появляется на публике, <br />
+что совсем не обязательно<br /> является признаком<br /> мизантропии.</p></div>
+			
+			<div class="writer wrt-8" style="height:105px;"><p style="
+    margin-top: 15px;
+">Отдать голос <br>за Михаила Шишикина</p>
+
+<p class="fb-div3" style="color:#e7edef;"><span class="fb-title">Михаил Шишикин</span><span class="fb-img" style="display:none">http://www.sobaka.ru/system/inline_image/image/00/00/93/78/base_shishkin.png</span><span class="fb-text" style="display:none;">Михаил Шишикин</span></p></div>
+			
+		</div>
+
+
+
+
+
+
+
+<div class="b-right" id="Sadulaev" style="display:none;">
+			<div class="writer wrt-0" style="height: 53px;"><p style="
+    margin-top: 5px;
+">Бывал там лишь в качестве</br> адвоката.</p></div>
+			
+			<div class="writer wrt-1" style="height:383px;"><p style="margin-top:9px;">В 2010 году в интервью «КП»</br> Садулаев сказал: «У чеченского</br> мужчины нет шансов удовлетво-</br>
+рить свои сексуальные желания</br> вне брака. Неудивительно, что </br>
+он постепенно начинает сходить </br>с ума. Мужчин при виде женщин </br>начинает мелко трясти, особенно</br> тех, кто не выезжает в Россию.</br> Это грозит расцветом </br>гомосексуализма». Рамзан</br> Кадыров прокомментировал: </br><b>«Такого писателя у нас нет,</b></br> во-первых. А во-вторых, он, если</br> вот такие вещи пишет, он не</br> чеченец, и даже не мусульманин, </br>и даже не человек».</p>
+<img style="position:relative; top:10px; left:45px;" src="../../system/inline_image/image/00/00/93/82/base_sadulaevBook.png" alt="" />
+</div>
+			
+			<div class="writer wrt-2" style="height:133px;"><p style="
+    margin-top: 14px;
+">До 1989 года жил в Ичкерии,</br> которую, впрочем, всегда </br>называет частью РФ. Некоторое </br>время обитал в Германии</br>
+вернулся в Россию.</p></div>
+			
+			<div class="writer wrt-3" style="height: 92px;">
+
+<p style="margin-top:11px;">Вступил в КПРФ, состоит </br>
+в парторганизации Невского</br> района Петербурга.</p></div>
+			
+			<div class="writer wrt-4" style="height: 98px;"><p style="
+    margin-top:11px;
+">Прежде всего — к истории</br> чеченского народа и его </br>взаимоотношений с империей.</p></div>
+			
+			<div class="writer wrt-5" style="height:92px;">
+
+<p style="margin-top: 13px;">М<b>еняет образ Чечни <br />
+в российском сознании.</b></p></div>
+			
+			<div class="writer wrt-6" style="height:143px;"><p style="
+    margin-top: 12px;
+">Премия <b>«Эврика» </b>— за роман<br /> «Шалинский рейд» (2008),<br /> премия журнала «Собака.ru» <br /><b>«ТОП 50»</b> в номинации<br /> «Литература» (2009) — за<br /> офисный роман «Таблетка».</p></div>
+			
+			<div class="writer wrt-7" style="height:162px;"><p style="
+    margin-top: 10px;
+    margin-left: 2px;
+"><b>«Когда мир встанет с головы<br /> на ноги, мы перестанем <br />гордиться, нам станет стыдно.<br /> Стыдно за то, что мы были <br />
+на войне. Или даже просто — <br />где-то неподалеку»</b><br />
+(Шалинский рейд).</p></div>
+			
+			<div class="writer wrt-8" style="height: 80px;"><p style="
+    margin-top: 10px;
+">Не носит, очевидно, чтобы <br />
+ни в коем случае не походить <br />
+на горца.</p></div>
+			
+			<div class="writer wrt-9" style="height: 126px;"><p style="
+    margin-top: 12px;
+">Напротив, пытается всех<br /> помирить.</p></div>
+			
+			<div class="writer wrt-8" style="height:113px;"><p style="
+    margin-top: 12px;
+">Отдать голос <br>за Германа Садулаева</p>
+
+<p class="fb-div3" style="color:#e7edef;"><span class="fb-title">Герман Садулаев</span><span class="fb-img" style="display:none">http://www.sobaka.ru/system/inline_image/image/00/00/93/81/base_sadulaev.png</span><span class="fb-text" style="display:none;">Герман Садулаев</span></p></div>
+			
+		</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="b-right" id="Shargunov" style="display:none;">
+			<div class="writer wrt-0" style="height: 85px;"><p style="
+    margin-top: 14px;
+">Нет. Ему там явно </br>
+будет скучно.</p></div>
+			
+			<div class="writer wrt-1" style="height:120px;"><p style="margin-top:9px;">В 2001-м отдал денежную часть</br> премии «Дебют» за повесть<br /> «Малыш наказан» Лимонову,<br /> сидевшему в тюрьме. Публично <br />выступал в поддержку Pussy Riot.</p>
+</div>
+			
+			<div class="writer wrt-2" style="height:87px;"><p style="
+    margin-top: 14px;
+">Бывал там лишь в порядке <br />журналистских командировок.</p></div>
+			
+			<div class="writer wrt-3" style="height: 297px;">
+
+<p style="margin-top:11px;"><b>В 1998 году вступил в <br />Национал-большевистскую<br /> партию.</b> В начале 2000-х, учась <br />
+в вузе, был помощником<br /> депутата Госдумы Татьяны <br />Астраханкиной, а потом депутата <br />от партии «Яблоко» Юрия <br />Щекочихина. В 2005-м вошел <br />
+в политсовет партии «Родина» <br />
+и стал главой молодежного союза<br /> «За Родину!». В 2007-м вошел <br />
+в первую тройку кандидатов<br /> «Справедливой России» для <br />участия в выборах в Госдуму, <br />
+но вскоре был исключен оттуда.<br /><b> Позже называл себя <br />беспартийным.</b></p></div>
+			
+			<div class="writer wrt-4" style="height: 75px;"><p style="
+    margin-top: 10px;
+">В качестве репортера <br />
+побывал и на митингах  <br />
+в Москве, и на войне в Осетии.</p></div>
+			
+			<div class="writer wrt-5" style="height:101px;">
+
+<p style="margin-top: 9px;">В повести «Птичий грипп» <br />поработал с молодежными<br /> политическими движениями,<br /> собрав галерею разнообразных <br />шаржей.</p></div>
+			
+			<div class="writer wrt-6" style="height:57px;"><p style="
+    margin-top: 12px;
+"><b>«Дебют»</b> — за повесть <br />
+«Малыш наказан» (2001).</p></div>
+			
+			<div class="writer wrt-7" style="height:211px;"><p style="
+    margin-top: 12px;
+"><b>«„Кто ближний мой?“ — <br />повторив этот евангельский <br />вопрос, я сам себе и отвечаю:<br /> „Самый дальний“. Кто дальше<br /> — тот ближе. Хочется верить <br />первым встречным, которым<br /> ничего от меня вообще не <br />надо. Все мне кажется, что<br /> простой и случайный человек<br /> может что-то очень важное<br /> открыть»</b><br />
+(Книга без фотографий).</p></div>
+			
+			<div class="writer wrt-8" style="height: 299px;">
+<img style="position:relative; top:10px; left:46px;" src="../../system/inline_image/image/00/00/93/85/base_shargunovBook.png" alt="" />
+<p style="margin-top: 22px;">Не носит, возможно, в пику<br />
+отцу — священнослужителю<br /> православной церкви, с которым <br />состоит в непростых отношениях:<br /> после письма в поддержку Pussy<br /> Riot Сергей получил ответное <br />
+от протоиерея Владимира<br /> Переслегина «по благословению <br />протоиерея Александра<br /> Шаргунова».</p></div>
+			
+			<div class="writer wrt-9" style="height: 103px;"><p style="
+    margin-top: 9px;
+">В каждой телепрограмме <br />
+с участием Шаргунова он, как <br />правило, резко оппонирует всем<br /> остальным гостям по любому<br /> обсуждаемому вопросу.</p></div>
+			
+			<div class="writer wrt-8" style="height:92px;"><p style="
+    margin-top: 15px;
+">Отдать голос <br>за Сергея Шаргунова</p>
+
+<p class="fb-div3" style="color:#e7edef;"><span class="fb-title">Сергей Шаргунов</span><span class="fb-img" style="display:none">http://www.sobaka.ru/system/inline_image/image/00/00/93/84/base_shargunov.png</span><span class="fb-text" style="display:none;">Сергей Шаргунов</span></p></div>
+			
+		</div>
+
+
+
+
+
+
+
+
+<div class="b-right" id="Elizarov" style="display:none;">
+			<div class="writer wrt-0" style="height: 93px;"><p style="
+    margin-top: 15px;
+"><b>«Мое тело состоит из клеток, <br />
+я по ходу сам себе тюрьма».</b></p></div>
+			
+			<div class="writer wrt-1" style="height:92px;"><p style="margin-top:14px;">Сражается лишь<br />
+с литературными штампами.</p></div>
+			
+			<div class="writer wrt-2" style="height:104px;"><p style="
+    margin-top: 18px;
+">Учился на телережиссера <br />
+в Ганновере, жил и сочинял <br />
+в Берлине.</p></div>
+			
+			<div class="writer wrt-3" style="height: 113px;">
+
+<p style="margin-top:16px;"><b>Считает современные<br /> политические игры <br />
+слишком несерьезными.</b></p></div>
+			
+			<div class="writer wrt-4" style="height: 118px;"><p style="
+    margin-top: 19px;
+">Интересуется мифологией<br /> советской литературы.</p></div>
+			
+			<div class="writer wrt-5" style="height:112px;"><p style="
+    margin-top: 16px;
+">Представил Пастернака<br /> литературным демоном, <br />
+а бывший Советский Союз —<br /> Римом периода упадка.</p></div>
+			
+			<div class="writer wrt-6" style="height:102px;"><p style="
+    margin-top: 22px;
+"><b>«Русский Букер»</b> — за роман<br /> «Библиотекарь» (2008).</p></div>
+			
+			<div class="writer wrt-7" style="height:315px;">
+<img style="margin-top:25px; margin-left:52px;" src="../../system/inline_image/image/00/00/93/92/base_elizarovBook.png" alt="" />
+<p style="margin-top: 13px; margin-left: 2px;"><b>«В некотором роде <br />
+Незнайка продолжает<br /> известный ряд героев: <br />
+Онегин, Печорин, Базаров,<br /> Рудин»</b><br />
+(Бураттини. Фашизм прошел).</p></div>
+			
+			<div class="writer wrt-8" style="height: 80px;"><p style="
+    margin-top: 17px;
+">Нет, но есть волосы ниже плеч <br />и голос панк-шансонье.</p></div>
+			
+			<div class="writer wrt-9" style="height: 206px;">
+			<p style="margin-top: 12px;" >Писательское сообщество <br />величает его эпигоном Сорокина,<br /> «Нацбесом», он же поет песни <br />
+со словами: </p>
+
+<p style="margin-top: 14px;" >«Ты меня разлюбила,<br />
+Я теперь Чикатило,<br />
+Я по городу гребу,<br />
+Все, что движется, е...у».</p></div>
+			
+			<div class="writer wrt-8" style="height:122px;"><p style="
+    margin-top: 15px;
+">Отдать голос <br>за Михаила Елизарова</p>
+
+<p class="fb-div3" style="color:#e7edef;"><span class="fb-title">Михаил Елизаров</span><span class="fb-img" style="display:none">http://www.sobaka.ru/system/inline_image/image/00/00/93/91/base_elizarov.png</span><span class="fb-text" style="display:none;">Михаил Елизаров</span></p></div>
+			
+		</div>
+
+
+
+
+
+
+
+		
+
+
+
+<div class="b-right" id="Prilepin" style="display:none;">
+			<div class="writer wrt-0" style="height:80px;"><p style="
+    margin-top: 15px;
+">Задерживался для проверки документов.</p></div>
+			
+			<div class="writer wrt-1" style="height:200px;"><p style="margin-top:8px;">Национал-большевик,<br> организовал Марш несогласных <br>
+			в Нижнем Новгороде, основал<br> национал-демократическое<br> движение «Народ», <b>подписал<br> обращение «Путин должен<br> уйти!».</b> Гендиректор «Новой<br> газеты в Нижнем Новгороде»<br> 
+			и шеф-редактор сайта<br> «Свободная пресса».</p></div>
+			
+			<div class="writer wrt-2" style="height:85px;"><p style="
+    margin-top: 6px;
+"><b>Редко покидает даже границы<br> Нижнего Новгорода,</b> не говоря<br> уже о государственных.</p></div>
+			
+			<div class="writer wrt-3" style="height: 152px;"><p style="margin-top:8px;">Не замечен. <b>«Я по-доброму<br> попросил, чтобы меня<br> вычеркнули из списков»,</b> —<br> сказал он, когда, как Улицкая и <br>Быков, решил не идти в 2009-м<br> на встречу с Путиным.</p></div>
+			
+			<div class="writer wrt-4" style="height: 122px;"><p style="
+    margin-top: 14px;
+"><b>Интересуется современностью,<br> исследуя жизненный опыт,<br> который приобрел сам. </b>Будучи <br>омоновцем, воевал в Чечне <br>
+			в 1996 и 1999 годах.</p></div>
+			
+			<div class="writer wrt-5" style="height:160px;"><p style="
+    margin-top: 12px;
+">Написал скандальное «Письмо <br> товарищу Сталину», в котором <br> гиперболизировал двойственное <br> положение генералиссимуса  <br>
+			в российском сознании:  <br>
+			«Мы всем обязаны тебе. Будь  <br>
+			ты проклят».</p></div>
+			
+			<div class="writer wrt-6" style="height:115px;">
+<p style=" margin-top: 15px;"><b>«Национальный бестселлер»</b><br> (2008) и <b>«Супер-Нацбест»</b> (2011)<br> — за роман в рассказах «Грех».</p></div>
+			
+			<div class="writer wrt-7" style="height:225px;"><p style="
+    margin-top: 17px;
+    margin-left: 2px;
+"><b>«Мы живем в забавном<br />государстве, думаю я:<br>здесь, чтобы реализовать <br />свои элементарные права — <br />право на крышу над головой <br />и право на хлеб насущный для <br />себя и своих близких, — надо <br />исполнить необычайной<br />красоты кульбиты»</b><br />(«Terra Tartarara. Это касается<br />лично меня»).</p></div>
+			
+			<div class="writer wrt-8" style="height: 77px;"><p style="
+    margin-top: 11px;
+">Умеренно щетинист, но носил<br> бороду в Чечне.</p></div>
+			
+			<div class="writer wrt-9" style="height: 157px;"><p style="
+    margin-top: 15px;
+">Встретившись-таки с Путиным,<br> спросил о его связи <br>
+			с миллиардером Геннадием<br> Тимченко и о скандале <br>
+			по поводу хищений <br>
+			в «Транснефти».</p></div>
+			
+			<div class="writer wrt-8" style="height:118px;"><p style="
+    margin-top: 15px;
+">Отдать голос <br>за Захара Прилепина</p>
+
+
+
+
+<p class="fb-div3" style="color:#e7edef;"><span class="fb-title">Захар Прилепин</span><span class="fb-img" style="display:none">http://www.sobaka.ru/system/inline_image/image/00/00/93/06/base_prilepin.png</span><span class="fb-text" style="display:none;">Захар Прилепин</span></p></div>
+			
+		</div>
+
+
+
+
+
+
+	</div>

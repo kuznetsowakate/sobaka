@@ -1,0 +1,39 @@
+<style>
+.wrtFB a, .wrtFB p {color:#fff; font-size:14px;}
+.wrtFB a{cursor:pointer;}
+.wrtFB a.active1{text-decoration:underline;}
+.wrtFB {height: 240px; width: 160px; float: left; text-align: right; margin-top: 30px; padding-right: 120px;}
+.wrtFB  p {padding: 0; margin: 0;}
+.wrtFB iframe {left: 170px;top:-20px;position:relative;}
+</style>
+
+<div style="background: url('../../system/inline_image/image/00/00/92/81/base_bottomImg.png') no-repeat top center; width: 600px; height: 400px;">
+
+<p style="font-family: 'pf_din_text_comp_proregular'; font-size: 21px; color: #fff; text-align:center;padding-top:30px;">Рейтинг</p>
+
+<div class="wrtFB">
+
+<p><a class="fb-div3 active1" id="0"  onclick="$(window.opera?'html':'html, body').animate({scrollTop:300},'slow');return false">Александр Проханов<span class="fb-title" style="display:none;">Александр Проханов</span><span class="fb-img" style="display:none">http://www.sobaka.ru/system/inline_image/image/00/00/93/14/base_prochanov.png</span><span class="fb-text" style="display:none;">Александр Проханов</span></a></p>
+<p><a class="fb-div" id="1"  onclick="$(window.opera?'html':'html, body').animate({scrollTop:300},'slow');return false">Максим Кантор</a></p>
+<p><a class="fb-div" id="2"  onclick="$(window.opera?'html':'html, body').animate({scrollTop:300},'slow');return false">Борис Акунин</a></p>
+<p><a class="fb-div" id="3"  onclick="$(window.opera?'html':'html, body').animate({scrollTop:300},'slow');return false">Дмитрий Быков</a></p>
+<p><a class="fb-div" id="4"  onclick="$(window.opera?'html':'html, body').animate({scrollTop:300},'slow');return false">Эдуард Лимонов</a></p>
+</div>
+
+<div  class="wrtFB" style="margin-top:15px;">
+
+<p><a class="fb-div" id="5"  onclick="$(window.opera?'html':'html, body').animate({scrollTop:300},'slow');return false">Людмила Улицкая</a></p>
+<p><a class="fb-div" id="6"  onclick="$(window.opera?'html':'html, body').animate({scrollTop:300},'slow');return false">Михаил Шишкин</a></p>
+<p><a class="fb-div" id="7"  onclick="$(window.opera?'html':'html, body').animate({scrollTop:300},'slow');return false">Герман Садулаев</a></p>
+<p><a class="fb-div" id="8"  onclick="$(window.opera?'html':'html, body').animate({scrollTop:300},'slow');return false">Сергей Шаргунов</a></p>
+<p><a class="fb-div" id="9"  onclick="$(window.opera?'html':'html, body').animate({scrollTop:300},'slow');return false">Михаил Елизаров</a></p>
+<p><a class="fb-div" id="10"  onclick="$(window.opera?'html':'html, body').animate({scrollTop:300},'slow');return false">Захар Прилепин</a></p>
+</div>
+<!--
+<p style="text-align:center;font-style:italic;color:#fff;clear:both;font-size:12px">Подсчет голосов будет произведен 12 апреля в 00:00</p>
+-->
+</div>
+<p></p>
+<p><em>Текст:</em> Радив Кашапов<br />
+<em>Рисунки:</em> Виталий Шептухин
+</p>
