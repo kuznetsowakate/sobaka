@@ -1,0 +1,146 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="ru-RU">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>Пример: Счетчик времени на JavaScript</title>
+
+<link rel="stylesheet" href="fonts/fonts.css" charset ="utf-8">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<style>
+#note{
+    color: #fff;
+    font-size: 23px;
+    margin: 0 auto;
+    padding: 16px 4px 4px 4px;
+    width: 972px;
+    height:40px;
+    background:#363436;
+    font-family: 'pf_din_text_comp_prolight';
+    position:relative;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+#counter1{
+    margin:0 0 0 5px;
+    float:left;
+}
+
+.peopleCount{
+    float:right; 
+    margin:0 20px 0 0;
+}
+
+.promedium{
+    font-family: 'pf_din_text_comp_promedium';
+}
+
+</style>
+  <script type="text/javascript">
+
+  $(document).ready(function(){
+    var voicesCount1 = $('#voice').text(),
+        voicesCount = /[0-9]{1}$/.exec(voicesCount1);
+    /*words = ["голос", "голоса", "голосов"];*/
+
+
+    function incline(words,n){
+        return words[(n%100>4 && n%100<20)?2:[2,0,1,1,1,2][Math.min(n%10, 5)]];
+    }
+
+    $(".peopleCount").html("уже " + incline(["отдан", "отдано", "отдано"], voicesCount) + " <span id='voice' class='promedium'>" +  voicesCount1 + "</span>" + ' ' + incline(["голос", "голоса", "голосов"], voicesCount));
+
+
+
+  });
+
+
+
+if (jQuery.browser.mozilla) {$('#note').css({'letter-spacing':'0',
+                                            'font-size':'12px'});};
+
+
+
+
+
+
+        function countDown(num) {      
+
+           work_number = time_diff[num]--;
+    if (work_number<0) {document.getElementById('counter'+num).innerHTML = 'отсчет окончен'; } else {
+           days = Math.floor(work_number / 86400);      
+           work_number -= days * 86400;
+           hours = Math.floor(work_number / 3600);
+           work_number -= hours * 3600;
+           minutes = Math.floor(work_number / 60);
+           work_number -= minutes * 60;
+           seconds = Math.floor(work_number % 60);
+          
+
+           days = (days < 10) ? "0"+days : days;
+           hours = (hours < 10) ? "0"+hours : hours;
+           minutes = (minutes < 10) ? "0"+minutes : minutes;
+           seconds = (seconds < 10) ? "0"+seconds : seconds;
+
+           values = [
+              declOfNum(days, ["день", "дня", "дней"]), 
+              declOfNum(hours, ["час", "часа", "часов"]),  //
+              declOfNum(minutes, ["минута", "минуты", "минут"]),  //
+              declOfNum(seconds, ["секунда", "секунды", "секунд"]) //
+           ];
+           document.getElementById('counter'+num).innerHTML =  values.join(" ");// + ".";    
+
+           if (days == 3) {document.getElementById('note').style.background = "#d71921"}  //когда останется 3 дня до окончания голосования плашка станет красной
+        }
+        }
+
+        function declOfNum(number, titles) {
+           cases = [2, 0, 1, 1, 1, 2];
+           return "<span class='promedium'>" + number + "</span> " + titles[ (number%100>4 && number%100<20)? 2 : cases[Math.min(number%10, 5)] ];
+        }
+
+        window.onload=function(){
+            countDown();
+        };
+
+
+        
+
+
+
+    
+        
+      
+        
+     </script>
+</head>
+  <body >
+     <div id="wrapper">
+        
+        <div id="note">
+           <p style="float:left; margin:0 0 0 20px;">до конца голосования осталось - </p>
+           <p id="counter1"></p>
+           <p class="peopleCount" >уже отдан <span id="voice" class='promedium'>122 652</span> </p>
+        </div>
+        
+      
+     </div>
+
+     <script type="text/javascript">
+var time_diff=new Array;
+D = new Date();
+time_diff[1] = (Date.UTC(2013, 6, 1, 0, 0, 0) - D.getTime()) / 1000;
+
+
+        setInterval("countDown(1)", 1000);
+
+     </script>
+
+     
+
+
+
+</body>
+</html>
